@@ -9,7 +9,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="en">
       <body>
-        <div className="container" style={{ padding: '50px 0 100px 0' }}>
+        <div className="container-fluid" style={{ padding: '0px 0 0px 0' }}>
           {children}
         </div>
       </body>
