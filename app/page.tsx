@@ -6,7 +6,7 @@ export default function Home() {
       <div className="row">
         <div className="col-12">
          
-          <h1 className="header font-bold text-3xl mb-4">Supabase Authentication and Storage</h1>
+          <h1 className="header font-bold text-3xl mb-4">Welocme toSupabase Authentication and Storage</h1>
           <p>
             Explore our authentication and storage solutions with a
             straightforward profile management example. Create a user profile
